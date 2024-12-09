@@ -1,0 +1,6 @@
+# ignore files
+*.swp
+
+# ignore directories
+old/
+tmp/
